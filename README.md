@@ -16,7 +16,10 @@
 <p align="center">
      
 
-https://github.com/Wedlec129/Ipizza/blob/main/simulator-screen-recording-iphone-14-pro-2023-06-24-at-180730_XFE71Ix4.mp4
+
+https://github.com/Wedlec129/Ipizza/assets/52462899/778d5ffa-1389-4385-8715-d46efaabeafa
+
+
 
 >
 </p>
